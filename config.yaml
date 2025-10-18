@@ -1,4 +1,4 @@
-base: "https://wizley.io"
+base: "https://blog.wizley.io"
 
 author:
   name: "Wizley"
@@ -9,7 +9,7 @@ author:
   tagline: "A passionate Software Developer with a focus on cybersecurity."
 
 giscus:
-  repo: "wizley9999/wizley9999.github.io"
+  repo: "wizley9999/blog"
   repoId: "R_kgDOOVhk4w"
   category: "General"
   categoryId: "DIC_kwDOOVhk484Co3gp"
