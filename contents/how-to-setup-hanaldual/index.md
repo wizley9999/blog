@@ -7,7 +7,7 @@ date: "2025-11-12"
 
 ## 공통
 
-[https://hadu.wizley.io](https://hadu.wizley.io)로 접속합니다.
+[hadu.wizley.io](https://hadu.wizley.io/)로 접속합니다.
 
 ![1](1.png)
 
